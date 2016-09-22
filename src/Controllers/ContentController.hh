@@ -1,6 +1,6 @@
 <?hh //strict
 
-    namespace resttest\Controllers;
+    namespace HelloWorld\Controllers;
 
 
     use Plenty\Plugin\Controller;
