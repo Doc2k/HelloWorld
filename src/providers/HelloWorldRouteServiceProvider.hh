@@ -18,4 +18,3 @@
       {
           $router->get('HelloWorld','resttest\Controllers\ContentController@sayHello');
       }
-?>
