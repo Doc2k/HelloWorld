@@ -1,0 +1,8 @@
+	1.	{
+	2.	    "name":"RestTestPlugin",
+	3.	    "description":"Tests für REST-Aufrufe",
+	4.	    "namespace":"HelloWorld",
+	5.	    "author":"Your name",
+	6.	    "type":"template",
+	7.	    "serviceProvider":"resttest\\Providers\\restTestServiceProvider"
+	8.	}
