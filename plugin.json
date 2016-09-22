@@ -4,5 +4,5 @@
 	4.	    "namespace":"HelloWorld",
 	5.	    "author":"Your name",
 	6.	    "type":"template",
-	7.	    "serviceProvider":"resttest\\Providers\\restTestServiceProvider"
+	7.	    "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
 	8.	}
