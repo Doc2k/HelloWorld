@@ -1,5 +1,5 @@
 {
-    "name":"RestTestPlugin",
+    "name":"HelloWorld",
     "description":"Tests für REST-Aufrufe",
 	  "namespace":"HelloWorld",
 	  "author":"Your name",
